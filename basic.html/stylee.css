@@ -1,0 +1,36 @@
+.container{
+    
+  width: 250px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 3px solid #0a0909;
+  border-radius: 5px;
+  text-align: center;
+  height: 360px;
+  
+}
+span{
+  color: rgb(10, 9, 9);
+  font-size: 20px;
+}
+
+input[type="text"] {
+    width: 90%;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 20px;
+  }
+
+.btn{
+    margin: 4px;  
+}
+.row{
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  font-size: 20px;
+  border-radius: 5px;
+  background-color: rgb(238, 238, 238);
+  
+}
